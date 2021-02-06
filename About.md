@@ -1,0 +1,3 @@
+## About Trex game in this project
+
+In this project of Trex, I have used game camera which totally focuses on trex. I have also added some features:- before, the game used to restart only when the restart button is pressed. But now if we press space key or up arrow key, then also the game will restart. Also the trex jumped only when space key was pressed. Now it will also jump when the up arrow key is pressed. Thank You!
